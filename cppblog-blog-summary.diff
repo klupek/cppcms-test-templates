@@ -1,6 +1,6 @@
---- tests/cppblog-blog-summary.expected.cpp	2014-08-31 16:28:33.240204758 +0200
-+++ tmp/cppblog-blog-summary.cpp	2014-08-31 16:28:36.117286630 +0200
-@@ -241,7 +241,7 @@
+--- tests/cppblog-blog-summary.expected.cpp	2014-09-04 18:23:20.554350867 +0200
++++ tmp/cppblog-blog-summary.cpp	2014-09-04 18:24:48.595156951 +0200
+@@ -239,7 +239,7 @@
  #line 41 "tests/cppblog-blog-summary.tmpl"
  		    }
  #line 43 "tests/cppblog-blog-summary.tmpl"
@@ -9,7 +9,7 @@
  #line 43 "tests/cppblog-blog-summary.tmpl"
  		}		// endif
  #line 44 "tests/cppblog-blog-summary.tmpl"
-@@ -288,7 +288,7 @@
+@@ -284,7 +284,7 @@
  #line 50 "tests/cppblog-blog-summary.tmpl"
  		    }
  #line 52 "tests/cppblog-blog-summary.tmpl"
