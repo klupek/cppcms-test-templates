@@ -1,0 +1,16 @@
+--- tests/variables-1.expected.cpp	2014-09-05 20:37:52.670351302 +0200
++++ tmp/variables-1.cpp	2014-09-05 20:38:54.695826766 +0200
+@@ -46,11 +46,11 @@
+ #line 10 "tests/variables-1.tmpl"
+ 	    out() << "  \n\t\t\tmessage ext: ";
+ #line 10 "tests/variables-1.tmpl"
+-	    out() << content.bbcode(content.message, content.true);
++	    out() << content.bbcode(content.message, true);
+ #line 11 "tests/variables-1.tmpl"
+ 	    out() << "  \n\t\t\tmessage ext: ";
+ #line 11 "tests/variables-1.tmpl"
+-	    out() << content.bbcode(content.message, content.false);
++	    out() << content.bbcode(content.message, false);
+ #line 12 "tests/variables-1.tmpl"
+ 	    out() << "  \n\t\t";
+ #line 12 "tests/variables-1.tmpl"
